@@ -1,0 +1,1 @@
+This is a simple recipe website created by me for Odin's recipe project. These are basic HTML skills I learnt from The Odin Project. 
