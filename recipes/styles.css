@@ -1,0 +1,55 @@
+body
+{
+    background-color: #222222;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-size: 6vw;
+}
+
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+h3
+{
+    text-decoration: underline;
+    letter-spacing: 2px;
+}
+
+.text
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    inline-size: 70%;
+    justify-content: center;
+}
+
+.back
+{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+a
+{
+    text-decoration: none;
+    color: #999999;
+    transition: ease-in-out 0.1s;
+}
+
+a:hover
+{
+    color: white;
+}
